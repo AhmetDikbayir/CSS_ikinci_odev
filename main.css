@@ -1,0 +1,48 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+.search{
+    width: 90%;
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.btn{
+    margin: auto;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: aqua;
+    transition: all 2s;
+}
+
+.table{
+    text-align: center;
+    margin: auto;
+    width: 90%;
+}
+
+.fs-20{
+    font-size: 20px;
+}
+
+.fs-16{
+    font-size: 16px;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+.table-data1{
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.table-data2{
+    width: 26%;
+    background-color: #7EE5DA;
+}
+
